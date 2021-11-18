@@ -79,7 +79,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 - $67,500 USDC main award pot
 - $7,500 USDC gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
-- Submit findings [using the C4 form](https://code423n4.com/2021-12-maple-finance-contest/submit)
+- Submit findings [using the C4 form](https://coderena.com/contests/2021-12-maple-finance-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts December 2, 2021 00:00 UTC
 - Ends December 8, 2021 23:59 UTC
